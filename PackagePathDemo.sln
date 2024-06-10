@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileExtensionMismatch", "src\FileExtensionMismatch\FileExtensionMismatch.csproj", "{6A1024AD-FE9C-402E-AFA6-48D9FD189462}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveExample", "src\RecursiveExample\RecursiveExample.csproj", "{6167199C-6C60-49E0-B196-80B8101A6D3A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveExampleExtensionless", "src\RecursiveExampleExtensionless\RecursiveExampleExtensionless.csproj", "{AA2D42CA-CBFF-4EE9-A276-02636BD70B70}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveExampleWithPath", "src\RecursiveExampleWithPath\RecursiveExampleWithPath.csproj", "{144DD744-298E-4E33-9205-A6AB3C88EEA5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContentFilesHandling", "src\ContentFilesHandling\ContentFilesHandling.csproj", "{51B38B43-2227-43A0-BF93-EE933FB0E153}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmptySegment", "src\EmptySegment\EmptySegment.csproj", "{9C396192-F702-4E4E-89B6-905640DA4611}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultipleSlashes", "src\MultipleSlashes\MultipleSlashes.csproj", "{E3A9F7DE-15D9-4CFA-AA23-DBCDF5C486B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A1024AD-FE9C-402E-AFA6-48D9FD189462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1024AD-FE9C-402E-AFA6-48D9FD189462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1024AD-FE9C-402E-AFA6-48D9FD189462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1024AD-FE9C-402E-AFA6-48D9FD189462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6167199C-6C60-49E0-B196-80B8101A6D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6167199C-6C60-49E0-B196-80B8101A6D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6167199C-6C60-49E0-B196-80B8101A6D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6167199C-6C60-49E0-B196-80B8101A6D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA2D42CA-CBFF-4EE9-A276-02636BD70B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2D42CA-CBFF-4EE9-A276-02636BD70B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2D42CA-CBFF-4EE9-A276-02636BD70B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2D42CA-CBFF-4EE9-A276-02636BD70B70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{144DD744-298E-4E33-9205-A6AB3C88EEA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144DD744-298E-4E33-9205-A6AB3C88EEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144DD744-298E-4E33-9205-A6AB3C88EEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144DD744-298E-4E33-9205-A6AB3C88EEA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B38B43-2227-43A0-BF93-EE933FB0E153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B38B43-2227-43A0-BF93-EE933FB0E153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B38B43-2227-43A0-BF93-EE933FB0E153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B38B43-2227-43A0-BF93-EE933FB0E153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C396192-F702-4E4E-89B6-905640DA4611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C396192-F702-4E4E-89B6-905640DA4611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C396192-F702-4E4E-89B6-905640DA4611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C396192-F702-4E4E-89B6-905640DA4611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3A9F7DE-15D9-4CFA-AA23-DBCDF5C486B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A9F7DE-15D9-4CFA-AA23-DBCDF5C486B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A9F7DE-15D9-4CFA-AA23-DBCDF5C486B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A9F7DE-15D9-4CFA-AA23-DBCDF5C486B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

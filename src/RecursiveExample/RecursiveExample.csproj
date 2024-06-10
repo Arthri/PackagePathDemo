@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <None Update="analyzers/A.txt" Pack="true" />
+  </ItemGroup>
+
+</Project>

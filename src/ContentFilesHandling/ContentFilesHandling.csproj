@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <None Update="analyzers/A.txt" Pack="true" PackagePath="/contentFiles/A.txt" />
+    <None Update="analyzers/B.txt" Pack="true" PackagePath="contentFiles/B.txt" />
+  </ItemGroup>
+
+</Project>
